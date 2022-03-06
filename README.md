@@ -13,7 +13,8 @@
 # Kütüphanenin projeye dahil edilmesi
 
 > Gradle Scripts > build.gradle dosyasında dependencies altına retrofit kütüphanesinin eklenmesi 
- ```java
+ 
+```java
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
  ```
