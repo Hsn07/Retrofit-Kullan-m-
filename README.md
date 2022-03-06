@@ -1,6 +1,9 @@
 # Retrofit Kullanımı
 
-> Retrofit Square şirketi tarafından geliştirilen, restful web hizmetlerini kullanımını kolaylaştırmayı amaçlayan, android ve java için rest iştemcisidir.
+> Retrofit Square şirketi tarafından geliştirilen, restful web hizmetlerini kullanımını kolaylaştırmayı amaçlayan, android ve java için rest istemcisidir.
+
+> Mevcut apilerin çalışıp çalışmadığını test etmek için [**Postman**][https://www.postman.com/] veya [**SOAP UI**][https://www.soapui.org/] gibi uygulamalar kullanılması tavsiye ediyorum. 
+
 
 ## **Rest** (Representational State Transfer) 
 
